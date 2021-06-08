@@ -27,7 +27,7 @@ The developed CLI program allows the user to explore an US bikeshare system data
 
 ### Python Learning In The Course
 
-Check the link for my learning material.
+
 #### Files Used
 
 The required files for running this program are: 
